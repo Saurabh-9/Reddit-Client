@@ -5,6 +5,8 @@
 The Reddit Client is a browser-based application designed to provide an engaging and dynamic way to explore Reddit. Users can add customizable lanes, each representing a different subreddit, and view real-time posts including titles, authors, and vote counts. The client seamlessly integrates with the Reddit JSON API to fetch and display subreddit data.
 
 This project demonstrates advanced frontend development skills, including API integration, asynchronous programming, and state management.
+<img width="1430" alt="image" src="https://github.com/user-attachments/assets/607a2972-68fc-4e5e-92b4-8403d57f74b6" />
+
 
 ## Features
 
